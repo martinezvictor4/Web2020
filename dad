@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<title>LB1 Angel Espinoza </title>
+	<link href="../LB20/CSS.css" rel="stylesheet" type="text/css">
+	<style>
+	body {
+
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:50%;
+    width:100%;
+}
+	
+</style>
+</head>
+
+<body>
+	<h1>Digital Design </h1>
+	<h2>Lab 1</h2>	
+	<h3>My first HTML document</h3>
+	<h4>by Angel Espinoza</h4>
+	<p>First I made a h1 tag and type inside the h1 tag "Digital Design". Then I made a h2 tag and type inside the h2 tag "Lab 1". After I made a h3 tag and type inside the h3 tag "My first HTML document". finally I made a h4 tag and type inside the h4 tag "by Angel Espinoza"</p>
+</body>
+</html>
